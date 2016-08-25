@@ -25,7 +25,7 @@ First, fork and clone this repo, so that we can access this README during our de
 
 Now, let's create a folder called 'app.' This is where we will store the guts of our app. Inside the app folder let's make a folder called 'scripts.' This is where we will store all our Javascript.
 
-Inside the js folder we will create our main Javascript named 'scripts.js'.
+Inside the scripts folder we will create our main Javascript named 'scripts.js'.
 
 Now that we've made our basic files, we want to get them all hooked together in our index.html file.
 
@@ -37,7 +37,7 @@ Now that we've made our basic files, we want to get them all hooked together in 
 #Step 2
 ###Time For jQuery
 
-Now that we have our environment set up and our markup written, it's time to use some jQuery. 
+Now that we have our environment set up and our markup written, it's time to use some jQuery.
 
 The first thing we want to do is go into our scripts.js file and create our document ready function:
 
